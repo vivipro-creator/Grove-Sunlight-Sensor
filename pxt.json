@@ -2,6 +2,7 @@
   "name": "grove-sunlight-sensor",
   "version": "0.0.2",
   "description": "Grove Sunlight Sensor SI1151 – einfache Blöcke für Calliope mini v3.",
+  "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0iIzZlY2ZmZiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSI4IiBmaWxsPSJ5ZWxsb3ciLz48ZyBzdHJva2U9InllbGxvdyIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiPjxsaW5lIHgxPSIxNiIgeTE9IjIiIHgyPSIxNiIgeTI9IjYiLz48bGluZSB4MT0iMTYiIHkxPSIyNiIgeDI9IjE2IiB5Mj0iMzAiLz48bGluZSB4MT0iMiIgeTE9IjE2IiB4Mj0iNiIgeTI9IjE2Ii8+PGxpbmUgeDE9IjI2IiB5MT0iMTYiIHgyPSIzMCIgeTI9IjE2Ii8+PGxpbmUgeDE9IjUiIHkxPSI1IiB4Mj0iOCIgeTI9IjgiLz48bGluZSB4MT0iMjQiIHkxPSIyNCIgeDI9IjI3IiB5Mj0iMjciLz48bGluZSB4MT0iNSIgeTE9IjI3IiB4Mj0iOCIgeTI9IjI0Ii8+PGxpbmUgeDE9IjI0IiB5MT0iOCIgeDI9IjI3IiB5Mj0iNSIvPjwvZz48L3N2Zz4=",
   "license": "CC0-1.0",
   "dependencies": {
     "core": "*",
