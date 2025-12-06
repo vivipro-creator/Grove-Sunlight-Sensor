@@ -1,5 +1,5 @@
-//% color=#ffaa00 icon="\uf185" weight=80 block="Sunlight-Sensor"
-namespace Sunlight-Sensor {
+//% color=#ffaa00 icon="\uf185" weight=80 block="Grove-Sunlight-Sensor"
+namespace Grove-Sunlight-Sensor {
 
     //% block="Initialisiere Sonnenlichtsensor" weight=100 blockGap=8
     export function initSunlight(): void {
