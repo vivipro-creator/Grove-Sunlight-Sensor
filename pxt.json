@@ -1,5 +1,5 @@
 {
-  "name": "Sunlight-Sensor",
+  "name": "Grove-Sunlight-Sensor",
   "version": "0.0.1",
   "description": "Blöcke für den Grove Sunlight Sensor SI1151 am Calliope mini.",
   "dependencies": {
