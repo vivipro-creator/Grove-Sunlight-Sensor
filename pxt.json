@@ -1,0 +1,13 @@
+{
+  "name": "Sunlight Sensor",
+  "version": "0.0.1",
+  "description": "Blöcke für den Grove Sunlight Sensor SI1151 am Calliope mini.",
+  "dependencies": {
+    "core": "*",
+    "sunlightsensor-si1151": "https://github.com/calliope-edu/pxt-sunlightsensor-si1151"
+  },
+  "files": [
+    "main.ts"
+  ],
+  "public": true
+}
